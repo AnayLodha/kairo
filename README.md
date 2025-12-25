@@ -1,4 +1,4 @@
-# Ikigai Atlas
+# kairo
 
 A calm, student-friendly space to manage academics, track mood, capture creative ideas, and build habits that last.
 
